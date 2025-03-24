@@ -1,0 +1,4 @@
+### GET request to test ChatController
+GET http://localhost:8080/chat?question=What%20is%20the%20capital%20of%20France
+
+###

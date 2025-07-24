@@ -1,4 +1,4 @@
-package com.project.springai.Config;
+package com.project.springai.configurations;
 
 import org.springframework.ai.chat.model.ChatModel;
 import org.springframework.ai.ollama.OllamaChatModel;
